@@ -1,0 +1,3392 @@
+commit 64e6454a7664f1228dd1c7842c8766b13c90b68f
+Author: AKriminal <109768654+AKriminal@users.noreply.github.com>
+Date:   Wed Apr 12 21:27:16 2023 -0600
+
+    Add files via upload
+
+commit 1d4dde358bd43bde106439c46c39810526639fae
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 21:18:40 2023 -0600
+
+    Add files via upload
+
+commit dd926eca5834c7fccebc4cd6dc4cea329b4a6d6e
+Author: AKriminal <109768654+AKriminal@users.noreply.github.com>
+Date:   Wed Apr 12 21:15:22 2023 -0600
+
+    Add files via upload
+
+commit 31d679ce0a7f06bf6b974c9ea35c343a392181b0
+Author: amans489 <114128892+amans489@users.noreply.github.com>
+Date:   Wed Apr 12 20:43:54 2023 -0600
+
+    fixed tests
+    
+    Updated two test cases
+
+commit b0bcc1cdb405fd98529f3299a8a27ab2aa0b58a2
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 19:01:27 2023 -0600
+
+    label fixes
+
+commit 19349353ec1db543ea9fd44af9ef69863f1ecfcc
+Merge: 34b93d2 78088ed
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 15:44:57 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 34b93d2a7e155eb216f46b48dbb4561c88435095
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 15:44:54 2023 -0600
+
+    more quick fixes
+
+commit 78088ed594208713015482e2e3b2b3798772231e
+Author: virtueoso <126448515+virtueoso@users.noreply.github.com>
+Date:   Wed Apr 12 15:25:04 2023 -0600
+
+    fixes
+
+commit d675e90f92c3313625aaa06231da27a96dc126c1
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Wed Apr 12 15:02:46 2023 -0600
+
+    Delete .DS_Store
+
+commit 15c360a8845e98d55881a75893f8eaaa5981be30
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Wed Apr 12 15:02:35 2023 -0600
+
+    Delete .DS_Store
+
+commit d6be8152950f15f5bf93c42d8e1cb09af19ca60b
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Wed Apr 12 15:02:23 2023 -0600
+
+    Delete .DS_Store
+
+commit 39ca9cc4d98ab5dcc13157b2fb054ba1d973c68c
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 14:58:19 2023 -0600
+
+    multiple quick fixes
+
+commit 099c84622a006cdb8b1296615896a041dbd22101
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Wed Apr 12 13:33:59 2023 -0600
+
+    names
+
+commit aa1f9ce86e0d57d98f5462b972465d73391ebe1e
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Wed Apr 12 12:58:52 2023 -0600
+
+    Done with fixes.
+
+commit 0af59aa528a06fa4bbcf044e00dde8cfd6b3703b
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Wed Apr 12 12:56:44 2023 -0600
+
+    Names Added and more fixes
+
+commit 8514dac40bb924bf98ebec7d7811c00c7030d1fc
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Wed Apr 12 12:51:14 2023 -0600
+
+    .
+
+commit a02a3c6e6cfb1db5bc32467b21fbe4d5b6f17f62
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Wed Apr 12 12:51:04 2023 -0600
+
+    Removed some unnecessary imports
+
+commit 4a300a0680f49438191cd3749ce4791b3c898eb4
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Wed Apr 12 12:50:26 2023 -0600
+
+    More Minor Fixes
+
+commit 92130225bf0bc74e68e0ec660374ae38917ee565
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Wed Apr 12 12:49:34 2023 -0600
+
+    Minor Fixes
+
+commit e1402b8a4d96e09bac5cd0de160d4912efeddccc
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 12:30:47 2023 -0600
+
+    small issue fixed
+
+commit d1029e884051dbc87af70858f131a99766be55f4
+Merge: e5c344c 1d748f5
+Author: alisha-nas <116316574+alisha-nas@users.noreply.github.com>
+Date:   Wed Apr 12 12:20:47 2023 -0600
+
+    Merge pull request #40 from Amasil/alisha-Bag-GUI
+    
+    Fixed path of images
+
+commit 1d748f596af97a90afd798226fe62915278a6ebc
+Merge: c6f2b9c e5c344c
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Wed Apr 12 12:16:49 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit c6f2b9cae1284ca6fb56100fcad66ad67268bf6b
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Wed Apr 12 12:16:42 2023 -0600
+
+    Fixed images path
+
+commit e5c344c35c071dadeafbc541e2341cf1ab1e54b4
+Merge: 230f667 0eb3a47
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Wed Apr 12 12:13:00 2023 -0600
+
+    Merge pull request #39 from Amasil/newtest
+    
+    deleted membership test
+
+commit 0eb3a47938425dac58c0f47436ec6623908f51f6
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 12 12:12:15 2023 -0600
+
+    deleted membership test
+
+commit 230f667e517b6efb01aa3a6ec5b46f2ffbd3b5e1
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 09:22:49 2023 -0600
+
+    small issue fixed
+
+commit dcf02ab41c7bf63316991bd07a35977692e9c465
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 04:02:59 2023 -0600
+
+    i lied this is the last one
+
+commit ff8ac4969610730ab5cc956e41be1ebb3d12f047
+Merge: 53bb1bd e5cec22
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 03:58:19 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 53bb1bdcb64d680318507d0bffb07cf1fb5b6479
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 03:58:10 2023 -0600
+
+    one last change
+
+commit e5cec222e06813b422c926f18583ac918ff83fbe
+Merge: 9b81c95 4a859c4
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 03:53:55 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 9b81c95938532facc820a2b47ba8892499d7a601
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 03:53:50 2023 -0600
+
+    Updates
+
+commit 4a859c405bf61f80a6dc1cc0f61d4d44130b71b9
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 03:49:53 2023 -0600
+
+    should be good to go now
+
+commit 44a74187bb8fdb20831d54d5cba608f7f3bde0b9
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 03:48:14 2023 -0600
+
+    reverted some stuff
+
+commit 8b69150091d1c47ee97d4924b0ac6f709775cc0d
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 03:21:40 2023 -0600
+
+    more fixing
+
+commit ff4824d3ef749e4278a005e29bb129789f1e0ae5
+Merge: c9fd983 7112a13
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 03:09:41 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit c9fd9837b0c7b988db4868bf8163b860fa259de2
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 03:08:17 2023 -0600
+
+    fixing demo
+
+commit 7112a13cf61df320da730948aaca0c2a99d096f2
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 03:07:43 2023 -0600
+
+    changes to static method
+
+commit 43b3ba4c376d09dad36fea4a1145faf653f34c4f
+Merge: deb73b1 7824921
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 02:58:10 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit deb73b19f19b8083fc359c31268410d144d3ba61
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 02:58:07 2023 -0600
+
+    demo files
+
+commit 7824921ec3585cf9d32320b8c801e026d20819f5
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 02:55:26 2023 -0600
+
+    update static methods to nonstatic
+
+commit ec888b5feff50d55203c31987b87d6c20cbc5ef1
+Merge: 00ca9e4 2388590
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 02:42:59 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 00ca9e42451297cbde0afbec302c2395951e2bae
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 02:42:53 2023 -0600
+
+    Update BagOptionPopup.java
+
+commit 2388590e1c9393f339e30c7aef0e5687644d47e0
+Merge: 65b2048 3fcd166
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 02:41:19 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 65b204819d2c6a53f47c3f65bbdb30386b518aeb
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 02:41:16 2023 -0600
+
+    setup demo files
+
+commit 3fcd16649027ba0cb5ba0e5703e114254d24ac8c
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 02:30:28 2023 -0600
+
+    Comments
+
+commit 8af0f32eb619e6ec4557f0a8b12b535cd72528e5
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 02:08:35 2023 -0600
+
+    commenting
+
+commit 67cf9d54cf8f216e0e373a40d5b9b80d2983bff1
+Merge: d7195e7 6ae793f
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 02:00:10 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit d7195e798ea1a22244939d6ffe1eb153ebf374cf
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 01:59:55 2023 -0600
+
+    more comments
+
+commit 6ae793ffa82780d319f986f9463b52b8ab0cf7f8
+Merge: 43b3227 ed24bca
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 01:59:07 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 43b322747f976ac5d1410dd90110180f362fa1e6
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 01:58:56 2023 -0600
+
+    commenting
+
+commit ed24bcaf8a0d5adc257b00a60469b5499e5bbeb6
+Merge: cb4415f c2fd12f
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 01:57:06 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit cb4415f0a7182d3f31a73b72e4ec53fef70d90c1
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 01:56:49 2023 -0600
+
+    Added comments and group member IDs
+
+commit c2fd12fe19261d52c04a0084151970dba4daebf6
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 01:53:55 2023 -0600
+
+    working on comment
+
+commit 083388aaa027da93db9ce3b40845f3b860bd3873
+Merge: 40eb1f9 7c69b94
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 01:50:29 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit 7c69b94265d558c838db44bce20d2e608515982f
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 01:48:34 2023 -0600
+
+    commented
+    
+    customerScreen
+    welcomePanel
+    thankYouPanel
+    LanguageSelectPanel
+
+commit 40eb1f91a43608f661122a70db823600766b758e
+Merge: 67281df 9a47cf2
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 01:40:20 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 67281df0b943eddfa282e5e6798ed8bf8b8e9b58
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 01:38:58 2023 -0600
+
+    attendant comments
+
+commit 9a47cf25dffa7325eb97f260541483bfa77422e5
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 01:36:02 2023 -0600
+
+    Comments
+
+commit 32757b3b5c8c49a5a9e0694953a6f91c777364f7
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 01:29:49 2023 -0600
+
+    Added comments
+
+commit 91de1d2ef6e905a3ac8d84ab3df59bc9649fd5d4
+Merge: a85a889 b075a4a
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 00:48:10 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit a85a889b75fd72f0535156129ed8a1dd86481d9a
+Merge: 160be01 542ff92
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 00:41:39 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 160be018162f4f13bc6bea12576b3b7de4b8682e
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 00:41:31 2023 -0600
+
+    Update EnterMembershipPanel.java
+
+commit 542ff92aff8c65a03c981fc71fa12e0698836b05
+Merge: a4aad5e 5790caa
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 00:35:45 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit a4aad5ea4d8834c3f7d22d4ff4a908bfb96addc9
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 12 00:35:34 2023 -0600
+
+    comments
+
+commit 5790caae73c6eac675c1e577a5ff6b17dc3f90fe
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 00:34:41 2023 -0600
+
+    BugFixes
+
+commit b075a4a389aa16242f72a3e7eae22df8e1b117b4
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 12 00:04:25 2023 -0600
+
+    multiple CardReaderObserver don't react to same event anymore
+
+commit 053997f49f98ae663d1cb50c339ed386e0bee28e
+Merge: 26d2916 d50bff0
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 12 00:02:40 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 26d2916a0dcd9bb9a183808f98d5dcc92764943a
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Tue Apr 11 23:57:57 2023 -0600
+
+    Added comments to addItemPanel, added simulation feature to addOwnBags
+
+commit d50bff0730fe6d9144acc1d21219a5eee3fd8ecc
+Merge: ce62b7f fd27f81
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Tue Apr 11 23:51:57 2023 -0600
+
+    Merge pull request #38 from Amasil/newtest
+    
+    payment changes to fix error in test
+
+commit fd27f8137422516af3a1b87cb2ff55c4ade1d92b
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Tue Apr 11 23:51:18 2023 -0600
+
+    payment changes to fix error in test
+
+commit fbc1c165eb346d5e9dfff99318a5031ff522c37c
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 23:39:34 2023 -0600
+
+    working on issue fixing
+
+commit ce62b7f22896217ba7b11404c2854e8348124896
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 11 23:38:41 2023 -0600
+
+    customer and attendant io changes
+
+commit 46967f2d11a5e3bffccece8c07526fc198c0ac0e
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 11 23:23:42 2023 -0600
+
+    fixed a bug
+
+commit 7a1ee286f4ca39864abc4cbb1da4dbfb9141fa61
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 11 23:11:11 2023 -0600
+
+    popup text fixed
+
+commit aba7848332fd36b846b2a5dc7be1f097c4bab9ed
+Merge: 2a6035a bf2dfd6
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 11 22:58:21 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 2a6035aa074ff15e2bc581a3ca549f12735665eb
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 11 22:58:18 2023 -0600
+
+    wooo items are adding properly again in gui its looking good boys
+
+commit bf2dfd6ff932f6d243a264558c1e84720e8bd350
+Merge: 8b1d5bc 1c1974e
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 21:50:55 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit 1c1974e1123206a0cc9ad35266929e004437fe55
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 21:49:45 2023 -0600
+
+    working on payment panel
+
+commit 8b1d5bc2902aaf3c3c741f565019894d084eb962
+Author: brian-vo <brianvo125@gmail.com>
+Date:   Tue Apr 11 21:43:01 2023 -0600
+
+    Resolve test issues; delete deprecated test
+
+commit 02eaba92526401e72375f7d6a0d9f1e17c5a07d3
+Merge: 7d8fa26 3c46301
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 11 21:30:50 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 7d8fa2648be2e4b724c15824c7392dd92d2582bb
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 11 21:30:46 2023 -0600
+
+    fixing adding items in gui
+
+commit 3c46301535fae444d517fa7174af18afcb31cc25
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 21:30:20 2023 -0600
+
+    Delete com.autovend.software/bin directory
+
+commit dab44e8566da5f36b010869b8e4059f06694d551
+Merge: 469cfcf f10aa8a
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 21:28:57 2023 -0600
+
+    Merge pull request #37 from Amasil/alisha-Bag-GUI
+    
+    Attendant+Customer GUI & Customer GUI tests
+
+commit f10aa8ac1f2cedae65538f808e2055d219018fff
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Tue Apr 11 21:24:23 2023 -0600
+
+    Added tests
+
+commit 6f0bee9bdc41dfe6993231cc2a802c182f933bfd
+Merge: bf84a8c 469cfcf
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Tue Apr 11 21:24:14 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 469cfcfd3e037b6b833f859c4974ced0c6332698
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Tue Apr 11 21:22:27 2023 -0600
+
+    attempted fix of bagdispense.java
+
+commit bf84a8c34e17bf5bb0189cbee254e170cd8d5819
+Merge: 696898c 497e81c
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Tue Apr 11 21:19:17 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 497e81c31d6ebe2895fc91f0a15f3a452370cb3d
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Tue Apr 11 21:12:30 2023 -0600
+
+    Standardization of file names and comments
+
+commit 89316d12462065254cea5305d71eb640b6384dc2
+Author: virtueoso <126448515+virtueoso@users.noreply.github.com>
+Date:   Tue Apr 11 19:34:19 2023 -0600
+
+    fixed tests
+
+commit 410e7c0ab9b70adf3918033c7faba3811054c057
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 19:26:55 2023 -0600
+
+    printing out receipt
+
+commit a266b7686a197b375b25a3a52cdba43710fbf8b9
+Merge: b4f7751 33cafbb
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 19:10:43 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit b4f775178da0b66d4dbeb60c3318267ca9e5087d
+Author: virtueoso <126448515+virtueoso@users.noreply.github.com>
+Date:   Tue Apr 11 18:28:31 2023 -0600
+
+    fixed tests
+
+commit 84ebdc1471f6206de37f2b33a0a2bb19f8553df5
+Author: virtueoso <126448515+virtueoso@users.noreply.github.com>
+Date:   Tue Apr 11 18:28:00 2023 -0600
+
+    fixed tests
+
+commit 33cafbb3998fef1c37f1f4c1d334b989df94b881
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 17:57:28 2023 -0600
+
+    thankYouPanel
+
+commit 114ef8cb480f83bb82e91e5e73918186bb3fae9b
+Author: virtueoso <126448515+virtueoso@users.noreply.github.com>
+Date:   Tue Apr 11 17:39:26 2023 -0600
+
+    fixed addownbagtests
+
+commit 9532b24f0b0080b6ead60d493a2ad3361e799bde
+Author: virtueoso <126448515+virtueoso@users.noreply.github.com>
+Date:   Tue Apr 11 17:38:47 2023 -0600
+
+    fixed add item by browsing
+
+commit d1f8632dace84dd55d9a9db48de84ce48e4410e9
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Tue Apr 11 17:14:08 2023 -0600
+
+    Comments Added to Tests
+
+commit 7470d585cd0d78ffcab2912a147d84ab1b8f72a0
+Merge: f906e94 fb63313
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 16:25:54 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit f906e94df424cf97a161be599f0e6c30799ed0bf
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 16:24:47 2023 -0600
+
+    update
+
+commit 696898c767310feef9ed67c981bdee2e486d8e48
+Merge: dca7883 bc7fcfe
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Tue Apr 11 15:51:28 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit dca7883a90275f1a05547f8678c344348a3adf78
+Merge: fe1ab91 fb8feb8
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Tue Apr 11 15:46:15 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit bc7fcfeb17068ab172c66a23cdb1f00fc9c97a51
+Merge: fb8feb8 d37fa04
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Tue Apr 11 15:41:18 2023 -0600
+
+    Merge pull request #36 from Amasil/newtest
+    
+    trying to fix
+
+commit d37fa04e496c479179078fdf5416401df4346aad
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Tue Apr 11 15:38:57 2023 -0600
+
+    trying to fix
+
+commit fb8feb8011b611c7addfa495b64be0ea9ff121fe
+Merge: 430ebeb ea0382d
+Author: Nemanja Grujic <67390027+nemanjag3005@users.noreply.github.com>
+Date:   Tue Apr 11 12:57:17 2023 -0600
+
+    Merge pull request #35 from Amasil/nem/testlowpaper
+    
+    add testing methods for low paper
+
+commit ea0382d71617480c87789946c146a2e3516b37f4
+Author: Nemanja Grujic <luxisoop@gmail.com>
+Date:   Tue Apr 11 12:56:45 2023 -0600
+
+    add testing methods for low paper
+
+commit 430ebebc0c65e957d9bd136adc8ae3e4509fec18
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:36:22 2023 -0600
+
+    Delete .gitignore
+
+commit 62b8b13e1b87c8678a7508b34ac0e6a7db09e356
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:36:07 2023 -0600
+
+    Delete .DS_Store
+
+commit a09942263887def4f8022d37e5e61f2128081677
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:36:00 2023 -0600
+
+    Delete com.autovend.software/bin directory
+
+commit 87799f5a4fa5d3bb69ac5fc2bcfaa424b13ac244
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:35:35 2023 -0600
+
+    Delete TestPrintReceipt.class
+
+commit ae6672945f2306aa4656a72dd455c1372aa37a47
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:35:25 2023 -0600
+
+    Delete MembershipTest.class
+
+commit 8f0bf9d081e3a3ee419e6381c65cedf08fd683eb
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:29:32 2023 -0600
+
+    Delete .DS_Store
+
+commit 5353654fc5ae75cadafbabef16d95c409881dc32
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:27:58 2023 -0600
+
+    Delete TestAddItemTextSearch.class
+
+commit 5e790226469b674b87310976899ad29d588e71be
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:27:45 2023 -0600
+
+    Delete TestAddItemScan.class
+
+commit 5d66d7c6f88fdb0a83366e8cb47568721e2b1a70
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:27:37 2023 -0600
+
+    Delete TestAddItemPLU.class
+
+commit daa91ecaec1328c28c0daa4fedabba8ec117dde4
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:27:29 2023 -0600
+
+    Delete PLUTouchscreenStub.class
+
+commit c58d4aae881c4b40df130ae52bb9458b39321ac8
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Tue Apr 11 12:27:13 2023 -0600
+
+    Delete AddItemByBrowsingTest.class
+
+commit 31299876168a4e6a053a058a04df2c516f1520c0
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Tue Apr 11 12:16:14 2023 -0600
+
+    Update AddOwnBag.java
+
+commit 7772a5f55c5b0faf8a6b95d21ad75cc88de1431f
+Merge: bb58687 deac914
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Tue Apr 11 11:14:17 2023 -0600
+
+    Merge pull request #34 from Amasil/Membership
+    
+    pushing changes to the hardware
+
+commit deac91405c4be6437dd48303c7f47106b130ff65
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Tue Apr 11 11:13:25 2023 -0600
+
+    pushing changes to the hardware
+
+commit fb633132210e9d3b9304dda9da36c41a862e1250
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 00:55:30 2023 -0600
+
+    small change
+
+commit e68742776ad73cbe86b211a0914418085ddfae5f
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 11 00:53:00 2023 -0600
+
+    Fixed Coin issue
+
+commit bb586876e48c63114cad9916f60c518e438f424a
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 11 00:21:29 2023 -0600
+
+    station locks customer out of interaction during suspension
+
+commit fe1ab91debef7fd587502ce2a859a2d091dbe21d
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Tue Apr 11 00:05:59 2023 -0600
+
+    Altered the panels
+
+commit cc014f5d238416d8e6410cbc8005989f1d06cf17
+Merge: b1b6ef3 f942ecd
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 23:39:00 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit b1b6ef330112db6645fc0db5c6ac399e23ccff61
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 23:38:49 2023 -0600
+
+    updated cash/coins denom
+
+commit f942ecdbb78b822045399ada66812eab158bc0d2
+Merge: 9b5023f 0dc7cef
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Mon Apr 10 23:24:21 2023 -0600
+
+    Merge pull request #33 from Amasil/Membership
+    
+    Membership
+
+commit 0dc7ceff4221c1ea3524dcf4a8280a8e1f236869
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Mon Apr 10 23:23:37 2023 -0600
+
+    uncommented code
+
+commit 6644b54c03c0de2cc11561ff0756e0bd3de4901b
+Merge: e423ecd 9b5023f
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Mon Apr 10 23:21:58 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3 into Membership
+
+commit 9b5023f5e4181297051493e244093b941fe88872
+Merge: 884d7c4 af35610
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Mon Apr 10 23:21:31 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit e423ecda5a491fe02ebee523dd5cb105942fc527
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Mon Apr 10 23:20:47 2023 -0600
+
+    changed up some payment classes, membership and tests.
+
+commit 884d7c408285342b2cafa98d4c082c8fcf0eb631
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 23:19:16 2023 -0600
+
+    fixed logic, fixed coin denoms in ui test
+
+commit af35610fe88617f99e28f7bd11d0911025a5b594
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Mon Apr 10 23:13:15 2023 -0600
+
+    small issue fixed
+
+commit b125f7abd4eb104b62ca2fb43c2c8db737c2dc5e
+Merge: c73f4a0 e5f1e51
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 23:13:08 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit c73f4a05143ad9ca6b6c5f03409041f61aea308e
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 23:11:15 2023 -0600
+
+    unit class for adding to scale
+
+commit 1b70a8eae8bf79269ac749e97a0fd51a24ec048f
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 22:58:03 2023 -0600
+
+    Added better documentation
+
+commit fbf1a44a701d43ee69d14d79348f7a96e04f93b1
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 22:56:07 2023 -0600
+
+    Modified payment panel tests
+
+commit 51bb658c5088acfad9b4c4b302bcdc724cf08903
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 22:49:43 2023 -0600
+
+    Getter methods for payment panel
+
+commit a012cffa279f4ce6f46298ae47ba059e6783fe32
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 22:31:52 2023 -0600
+
+    Added starter code to the rest of the tests
+
+commit 765dbbb323d4b6843161bd6958cdd6174ce6ced7
+Merge: 8e533c8 e5f1e51
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 22:21:00 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 8e533c8b25677c15e79c1ce3ee21522677ed6a36
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 22:20:51 2023 -0600
+
+    Fixed static problems
+
+commit 5e40e9bfd238fd83d2c5f968314d52d2fe6e4b17
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 22:14:52 2023 -0600
+
+    All tests except payment and PLU add done
+
+commit e5f1e51159b870c340352b0b5a31ab8eaad23e7a
+Author: virtueoso <126448515+virtueoso@users.noreply.github.com>
+Date:   Mon Apr 10 21:54:42 2023 -0600
+
+    Update TestAddItemScan.java
+
+commit 6dbeeb3524f89c1ce476815780c7b2f594d6a9be
+Author: virtueoso <126448515+virtueoso@users.noreply.github.com>
+Date:   Mon Apr 10 21:52:35 2023 -0600
+
+    fixed weight check for discrepancy
+    
+    does not unsuspend system if there is a weight discrepancy
+
+commit fdfb6b3c7f49095e9ebe5ef32805fad75bfd9c2b
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 21:39:30 2023 -0600
+
+    Made another test and getter methods
+
+commit 424239e2dddc51d050a783d12542d5c5a9a6df63
+Merge: 378e476 5e63d59
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 20:20:11 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 378e476e3cfdde79024ecc044c6f3d293e3a2055
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 20:16:54 2023 -0600
+
+    Added bag test and more getter methods
+
+commit 5e63d59905b3cb887df67923b6bfb1148d566029
+Merge: 169e946 a6fb5ef
+Author: Nishan <86346924+nishan-soni@users.noreply.github.com>
+Date:   Mon Apr 10 19:52:34 2023 -0600
+
+    Merge pull request #32 from Amasil/lowink-test-nishan
+    
+    added test cases for low ink use case
+
+commit a6fb5ef86ca0bc24d397df24988b45b6ad8c9ff8
+Author: Nishan Soni <nishan.soni2@gmail.com>
+Date:   Mon Apr 10 19:51:28 2023 -0600
+
+    added test cases for low ink use case
+
+commit 0a4e3c16c01d521ab66efd1ab1e2516c35492f77
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 19:44:20 2023 -0600
+
+    Made getter methods and modified manually adding item test
+
+commit 67b389b16c936f22fb1e8dfc656c11011deff089
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 19:10:51 2023 -0600
+
+    Created teardown method as well as getter methods
+
+commit 5107e9424c0daef5feb88458e35bf9a52e3cc676
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 18:18:46 2023 -0600
+
+    Edited tests
+
+commit 9ddd8d1e836893f5c1cf2ccf571fd81fd4acfaea
+Merge: 6675d9e 169e946
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 17:44:00 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 6675d9e2d42d830e903ebbbf26a50530047f59ed
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 17:43:44 2023 -0600
+
+    Create getter methods for buttons for testing, created 3 tests,
+
+commit 169e94632e6c2eb36e72e169a8a1e738f8576fe0
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 17:31:48 2023 -0600
+
+    Reusability implemented for all add item
+
+commit fe2bfdb11dcebb1c13d077112241c5c2387ae03d
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 17:24:26 2023 -0600
+
+    Update SelfCheckoutStationLogic.java
+
+commit 493a00118d1182f16ce7da66c9263452468d6078
+Merge: 7bb0304 32e7732
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 17:15:10 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 7bb0304eb9218b45ae575d5fec6c644cea9e2c8e
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 17:15:01 2023 -0600
+
+    Update AddItemScanController.java
+
+commit 32e773280d41b5d363e85b2f09fbe3baf68f1d08
+Author: Virtue-oso <brian.tran@ucalgary.ca>
+Date:   Mon Apr 10 16:57:49 2023 -0600
+
+    add permit station and tests
+
+commit 443ab304362e1e9649a6dd7387ec8aff4eac077a
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 16:26:46 2023 -0600
+
+    Here my implementattionsdgfsnio
+
+commit 81aa6e9cc9e35fc1c1cf25de39ffa43f51f02af1
+Merge: 7ec47e4 aaf73e5
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 16:26:04 2023 -0600
+
+    Yeet
+
+commit 7ec47e4cf1a0c1455162989db7089c6f25e79397
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 16:22:58 2023 -0600
+
+    ok back at the OG
+
+commit aaf73e5e8f10d11ea4019ec9c31bce1624e22e4d
+Merge: bcbeb97 7d7e407
+Author: BrettLyle11 <122420347+BrettLyle11@users.noreply.github.com>
+Date:   Mon Apr 10 16:00:36 2023 -0600
+
+    Merge pull request #31 from Amasil/Scale2
+    
+    Scale2
+
+commit 7d7e40724a22aeca8c354dad65c41e0669faf0fa
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 16:00:23 2023 -0600
+
+    again
+
+commit 6e94f89cd308e69cd415b4c9133fd4d758be53e6
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 15:59:54 2023 -0600
+
+    Deleted bin
+
+commit bcbeb97a1e28c2579fbfd557276632c81a95267e
+Author: BrettLyle11 <122420347+BrettLyle11@users.noreply.github.com>
+Date:   Mon Apr 10 15:58:43 2023 -0600
+
+    Delete com.autovend.software/bin directory
+
+commit f0764c127149b4e0091362f7a68dba85fc6bcb6a
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 15:57:05 2023 -0600
+
+    Please
+
+commit f10e0e133f9997ebed9d799168f8824dfd92730d
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 15:52:20 2023 -0600
+
+    Update .gitignore
+
+commit 7499a263e522d6bb5b326c2b3ce6c182ea2f73c9
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 15:50:02 2023 -0600
+
+    Making dummy test to see how gui testing works
+
+commit fee1d3c23434e85343df61864d85a2cdcd2b8c29
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 15:47:32 2023 -0600
+
+    Think I got a working Implementation
+
+commit a874e8564f7180325a074b01d8b72abcf8734db0
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 15:24:53 2023 -0600
+
+    Created outline of tests and their purpose
+
+commit 8e6a1712aa6c1a6f2e83f7ca43390f923c7dd670
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 14:54:17 2023 -0600
+
+    Update ScanningScale.java
+
+commit ba03d7b298c8bd58284f4710e2e774b35afeb6a4
+Merge: 3d53e80 9e0fb3e
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 14:52:51 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 45248c36438360f6f8f4e24f0b02f639483da966
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 10 14:52:17 2023 -0600
+
+    thing are messed up
+
+commit 9e0fb3e812864b9ec152e592806319a6edccd03c
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Mon Apr 10 14:48:26 2023 -0600
+
+    Finished tests.
+
+commit fc4303aa469ae20947cbf4a2f0346700946c7585
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 14:30:39 2023 -0600
+
+    unit class for weighing
+
+commit 78425a915d7efe6e3dd6fd1b2fd88970240eff70
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 14:06:06 2023 -0600
+
+    cards work in payment panel
+
+commit c74d50c6dc67dc40b35e2e9c00c18afa802992e0
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 13:09:53 2023 -0600
+
+    changed value
+
+commit 28a99e32761bcb4664b854f4aef456bbf11bea91
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 13:09:20 2023 -0600
+
+    fixed text search tests
+
+commit 15bed2f6dc71cf00ca0392289ec5b45bd46377d4
+Merge: 84c3b12 657b7f4
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 13:04:02 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 84c3b121543c249c1c5e23810bd91f612b3a5cb3
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 13:03:45 2023 -0600
+
+    fixed calls to logic variables in main panel and virtual keyboard
+
+commit 657b7f4a18e4d3c5bb813ed8a1f22558211a17f0
+Merge: bdac74e dff1d57
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Mon Apr 10 12:46:25 2023 -0600
+
+    Merge pull request #30 from Amasil/Membership
+    
+    fixed up some errors in variable naming
+
+commit dff1d5763ebc6269d206c4bd85b6719d23c994c1
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Mon Apr 10 12:46:00 2023 -0600
+
+    fixed up some errors in variable naming
+
+commit bdac74e97cfadc9a64d3fe0eab87e9b6359bf606
+Merge: 075ed26 5b96bf8
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Mon Apr 10 12:39:52 2023 -0600
+
+    Merge pull request #29 from Amasil/Membership
+    
+    Membership
+
+commit 5b96bf832b8c73a47e44de63703c003b00df4284
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Mon Apr 10 12:39:32 2023 -0600
+
+    added a getter method and fixed up membership
+
+commit c2c56cf5ed630832ad27a6102bf1c3fbc1c74e6b
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Mon Apr 10 11:37:11 2023 -0600
+
+    class issues
+
+commit 5ad499c65981c7a7aae84c935952952ccdd8f465
+Merge: dc74aee 075ed26
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Mon Apr 10 11:32:23 2023 -0600
+
+    resolve merge conflict
+
+commit 3d53e8039fbe915a2a366a7012839277484dd46e
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 06:11:47 2023 -0600
+
+    Modifications to bag and payment panels + rough draft of all panels completed
+
+commit 73d3740b5e1201bb5ac5ba7c8258caccd6869d73
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 05:58:31 2023 -0600
+
+    Changed background colour of attendant main page
+
+commit b0200152f305164ab9af403124a31cc750002987
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 05:06:45 2023 -0600
+
+    Rough draft for shopping cart panel + attendant login page + confirm/asking bag
+
+commit aefb58b612f58b0ce96a8612b9b5215d568c27aa
+Merge: 0834223 075ed26
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 02:45:36 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 083422377ba6b819b2f6d51e78db545fed0f8aed
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 02:45:27 2023 -0600
+
+    Finished rough draft of attendant login panel and added image
+
+commit 075ed26a8261e13c157e31057fa6e547509c8237
+Merge: daabf8d 012157f
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 02:08:15 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit daabf8d41f1e69742902f56fa130faa2e1f21953
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 02:08:04 2023 -0600
+
+    test payment cards added to payment panel
+
+commit 00065de77176eb77fd2bf44f5f52ca8abfe238d8
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Mon Apr 10 02:07:38 2023 -0600
+
+    working on payWithCashPanel
+
+commit 7839451050cd2d95c4138a317d616e87a5c1aa75
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 01:52:04 2023 -0600
+
+    Label in french (chooseMembershipPanel)
+
+commit af201c87e5605b62a8ad5a2f101acf9464d105a3
+Merge: fcc1dfb 012157f
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 01:48:12 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit fcc1dfb04bf1f092b099da5d83b5c51ed3151d35
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 01:47:55 2023 -0600
+
+    Updated french options
+
+commit 012157f2684860cb271f90ccca6c519d9bfa17e8
+Merge: 360d8e7 6750944
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Mon Apr 10 01:44:22 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 360d8e7df16bc0598a6153cbc13c00569d9517c8
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Mon Apr 10 01:44:14 2023 -0600
+
+    Update SelfCheckoutStationLogic.java
+
+commit 6750944e505c11fd082fe1312bea3ec6abb83b26
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 01:43:34 2023 -0600
+
+    quick fixes
+
+commit d307ff8afd324071e15044c55961da02335c054b
+Merge: bf8c056 eaeac99
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 01:42:16 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit bf8c056a26435a30bbc438eca6a42385c7e06c64
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 01:42:02 2023 -0600
+
+    Updated french options
+
+commit eaeac99ebb11307ebec4a3b729b0355ecdef7ddc
+Merge: 2072354 70be2b5
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 01:41:31 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 20723540e529cfc0bafb327b308f3977b3adc91e
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 01:41:15 2023 -0600
+
+    redid payment panel
+
+commit 70be2b575daea83594d328570d87bb272b5a209a
+Merge: 230bf7e e776366
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Mon Apr 10 01:38:51 2023 -0600
+
+    AddByBrowse Added
+
+commit e77636657f213eba0873ebd9ad03789748f8c9f5
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Mon Apr 10 01:35:36 2023 -0600
+
+    Added AddByBrowse Functionality
+    
+    Appropriate changes to logic classes made. Optimized AddItemPanel and added in AddByBrowse functionality
+
+commit e076627062f50f2ceaa2f371b2ee58a1857c1359
+Merge: 41179cc 230bf7e
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 01:30:45 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 41179cc87799e5dc7199b57655b64b6397e972f8
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 01:29:54 2023 -0600
+
+    Created use button on payment panel (currently not visible)
+
+commit 230bf7ecf1b5eb182465ea4ff70abf310c1e3465
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 01:29:21 2023 -0600
+
+    scan item simulator in shopping cart panel
+
+commit acf791f1c2b7af6cfe05bafb6aa80db2603d4675
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 01:17:47 2023 -0600
+
+    Modified add own bag panel
+
+commit fa9bb4ce1396adfd3ecb6650ce6e59efb36757f2
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 00:51:33 2023 -0600
+
+    Changed button layout on welcome panel and modified on membership panel
+
+commit beee9c443cd441eb6084e02175aa8bd5b25a3bc2
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 00:32:36 2023 -0600
+
+    areBagsEmpty method
+
+commit 1c04886d4519259153572b63269efd82f8bb3c95
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 00:27:42 2023 -0600
+
+    Modified choose membership panel more
+
+commit 4675fc84d6d9b41e6047cd4032670ccc445588b0
+Merge: 38d6a97 e46e529
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 00:27:39 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 38d6a9728c7208f5851e937a55400d2384048efc
+Merge: d4f208b 9f97156
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 00:26:57 2023 -0600
+
+    Merge branch 'GUI-Justin'
+
+commit d8ce5732239ede4764a16852df29a27e44057c8b
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Mon Apr 10 00:20:10 2023 -0600
+
+    Created gradient buttons and modified enter membership panel
+
+commit 9f97156740dec80125f580cd4e0fd697d8a177a6
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Mon Apr 10 00:13:31 2023 -0600
+
+    add item by text search in attendant gui
+
+commit 12e2991253d22d73b4e6cca28d18e8c7826dc2a4
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Sun Apr 9 23:55:37 2023 -0600
+
+    Added changes that were brought into main
+
+commit 85a61aa261bd77571ddff0b745abe9e8928642ea
+Merge: d6baba3 d4f208b
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Sun Apr 9 23:50:23 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit e46e529b23acbaaa825c9b730055dc7aa82be601
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 23:48:01 2023 -0600
+
+    I'm proud of myself
+
+commit 6819cdd409a12cb2697ad37ed1c10e45597fc649
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 23:35:31 2023 -0600
+
+    now bag gets added to the order
+
+commit d4f208bb83cf46641eabe9fc0e394e2197460695
+Merge: 45e6885 a2f9380
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 22:14:14 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit a2f9380422d74869582259c980c755dc98d5eecb
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 22:13:47 2023 -0600
+
+    confirmBagPanel updated
+
+commit 1f1406d9826b8709ce167bb69097047c50de5611
+Merge: 8c4419d 45e6885
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 22:08:13 2023 -0600
+
+    Merge branch 'main' into GUI-Justin
+
+commit dc74aee521705bccd8ab39f937d0625be1786e82
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sun Apr 9 22:04:36 2023 -0600
+
+    issue with classes trying to fix
+
+commit df17d7227409bc986db387c900a09388b6e69500
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 21:56:21 2023 -0600
+
+    working on
+
+commit 45e688541269222522202fb83b186dec2b01ebba
+Merge: 813df0d 45ec804
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Sun Apr 9 21:52:10 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 813df0d6e90e8c0e425c1d7d1398ef1026cf37c8
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Sun Apr 9 21:52:05 2023 -0600
+
+    Finish PayWithGiftCardTest
+
+commit 45ec804b115b8a50dbddbd1a48bf261c618b73be
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 20:45:46 2023 -0600
+
+    added scannable items to test in shopping cart panel
+
+commit 49cce8c97afdfc46b5d416ad582c48537205850d
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 20:01:21 2023 -0600
+
+    fixed plu code search
+
+commit 453636e5c790590c6a9bdfd14804b0922760ac87
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 19:56:05 2023 -0600
+
+    merge
+
+commit db9ab2c559a20fbafc7c4d8b6be5a6dd62302445
+Merge: 95781de c2fef1d
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 19:52:43 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 95781dea34075f3c852960c5b7e09311cf8d10ce
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 19:50:18 2023 -0600
+
+    purchase bags working
+
+commit c2fef1df55c1313aa7bb4c33747fe2aa9e500dcf
+Merge: 04d2281 981b993
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Sun Apr 9 19:30:13 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 04d228167d1badff39355a7744ec538d97b5c4ad
+Merge: 5c0ce9e be23139
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Sun Apr 9 19:29:59 2023 -0600
+
+    Added PLU Functionality to GUI
+
+commit 981b993cc7f925a529250861d442d84ce001e68b
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 19:27:28 2023 -0600
+
+    update
+
+commit be2313977ecd891226926e73fba4fc228d027d05
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Sun Apr 9 19:23:12 2023 -0600
+
+    Made add by PLU functionality for GUI
+    
+    Made several changes and additions to main logic and other classes
+
+commit 5c0ce9e0d6a1cdd02dba77afed4617acf7aa288e
+Merge: f031f45 f5a4d29
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 19:11:46 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit f031f450aeb5dae6cbda97b932e3e518a7b38e42
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 19:11:34 2023 -0600
+
+    update
+
+commit 8c4419def9951255e6152962c51d14b19c88396e
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 19:10:26 2023 -0600
+
+    attendant gui can load paper, ink, and bags
+
+commit f5a4d2924e3184a992e57cc04030e8a682552903
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Sun Apr 9 18:44:33 2023 -0600
+
+    Bag dispense testing.
+
+commit fb2728e9c2e9058dac288c5a5250f7f2b02d512b
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 18:03:11 2023 -0600
+
+    reset membership when cancel pressed in AddOwnBagsPanel
+
+commit fa71f573655cd5cfbcb35a99e28fe3826f990f58
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 17:09:01 2023 -0600
+
+    binary
+
+commit 2fb4682da4fcc51c8155c6a2d7dbdce772180b26
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 15:09:19 2023 -0600
+
+    binary
+
+commit 095d6f960f7192f6be88a6c165c0151316f792e7
+Merge: ac80831 5675f98
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 15:08:44 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit ac8083110ca2fcde65a985585ca0e252a4af2f51
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 14:53:00 2023 -0600
+
+    binary
+
+commit 5675f98dfc4bdc40a728670f0c8987f402284ca0
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Sun Apr 9 14:47:34 2023 -0600
+
+    Adding own bag test is done.
+
+commit 46636e4753d19901b8230e3d7e505188c5f1560f
+Merge: e0af4a3 64da44b
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Sun Apr 9 13:12:11 2023 -0600
+
+    Merge pull request #26 from Amasil/Adam
+    
+    Added AddbyPLU functionality
+
+commit 64da44b80d8b08b923705a43f3d6a6c0e76babfd
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Sun Apr 9 13:11:42 2023 -0600
+
+    Added AddbyPLU functionality
+
+commit e0af4a3de9b0fd25f0ac8c6da116fcbb3b0010f2
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Sun Apr 9 11:50:04 2023 -0600
+
+    Updated some code so weightDiscrepancy is not too hard
+
+commit 8768b56d06e38449d8cc352f7f5fd6ee4ea8faf9
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Sun Apr 9 11:19:05 2023 -0600
+
+    Fixed tests truly.
+
+commit bf0a4e585ffa3bea1ba370fae6e229e2ef824a2c
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Sun Apr 9 10:44:41 2023 -0600
+
+    Fixed tests.
+
+commit 6410a5377e73f660e93adb82ead93007c6fb6786
+Merge: edc3252 6bc61da
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 01:40:20 2023 -0600
+
+    attendant gui and customer gui updates
+
+commit 6bc61dad7c3d85dd1932fed67dde1ab452ed35f6
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 01:38:00 2023 -0600
+
+    panel for add own bags added to customer gui
+
+commit edc32526821b4ce418f9689ebf6b3b81101ba713
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 01:31:47 2023 -0600
+
+    PaymentPanel updated
+
+commit 0b091ede4edcdd556186b0df867671c1b328f15d
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 01:05:15 2023 -0600
+
+    attendant can remove barcoded items from supervised stations
+
+commit 85b63c2b47ac9b3a3bee9e3d0b09c6e71f035aa0
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 00:58:38 2023 -0600
+
+    commit
+
+commit b10e56fccf388fcecb4c41e19063a8f7ee1fa2cb
+Merge: ab7fc98 dd9e631
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 00:57:38 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit dd9e631833e6f6f10b209fbd3872c37a4e5606de
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sun Apr 9 00:56:25 2023 -0600
+
+    small update in PaymentPanel
+
+commit ab7fc980e942233b241735e87f3a1f88c93c07a1
+Merge: f5eee9c 9a9e1c1
+Author: Sahil Brar <47370267+sahilsbrar@users.noreply.github.com>
+Date:   Sun Apr 9 00:17:03 2023 -0600
+
+    Merge pull request #25 from Amasil/AdjustCoinChange
+    
+    Adjust coin change - updated with better change dispensing logic and tests
+
+commit 9a9e1c110d742e06248ab6cf6ace8b0085d82037
+Author: sahilsbrar <sahilbrar70@gmail.com>
+Date:   Sun Apr 9 00:15:43 2023 -0600
+
+    quick fix
+
+commit eb9920c2581aa627d27af1ff2726fb89b6b174dc
+Author: sahilsbrar <sahilbrar70@gmail.com>
+Date:   Sun Apr 9 00:13:52 2023 -0600
+
+    added fixed AdjustCoins and new tests
+
+commit f5eee9c4bb75549358af43c5ef4e41f1ed89068b
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 00:12:39 2023 -0600
+
+    isEnabled function in selfcheckoutlogic
+
+commit 6134f2d43c140fa9d117ca0ee4c3f9a2f5356487
+Merge: b356301 d883128
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 00:05:44 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit b356301cc8766dd40f6e8fa6a751c99bb9643c1c
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sun Apr 9 00:05:29 2023 -0600
+
+    supervised stations now show on attendant gui
+
+commit 9db7d21d3e45a4d94996347769c9bde5375012ec
+Author: sahilsbrar <sahilbrar70@gmail.com>
+Date:   Sat Apr 8 23:34:18 2023 -0600
+
+    changes to coin change, testing shortly
+
+commit d883128e5a2d639083cc5f2131cda44d5f7ebe8e
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 22:57:39 2023 -0600
+
+    updateLanguage added to chooseMembershipPanel
+
+commit ab1b14f6f23a0cae0faa005a4cf20a84149a194b
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 22:49:31 2023 -0600
+
+    language settings in welcomePanel and selectLanguagePanell
+
+commit 37ae506cafeab68d63deee45976988a03ace2f99
+Merge: 6585c14 0aa6fb1
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 22:28:55 2023 -0600
+
+    Merge branch 'main' into GUI-Justin
+
+commit 6585c14d0e71a9bd525982efee45d137fe6855f4
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 22:28:49 2023 -0600
+
+    test change in customer gui
+
+commit 0aa6fb17907d83a90684b78a8429034e76c9d1df
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 22:25:43 2023 -0600
+
+    small issue fixed with LanguageSelectPanel
+
+commit 9dd5690d2e6a41fcb4d7866d0db6c94ef0911021
+Merge: afd5405 f109109
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 22:20:33 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit f10910900178b5b17f24341cce1ee25aa3c523a5
+Merge: 5773f21 aca1634
+Author: Nishan <86346924+nishan-soni@users.noreply.github.com>
+Date:   Sat Apr 8 22:19:08 2023 -0600
+
+    Merge pull request #24 from Amasil/low-ink2
+    
+    add low ink use case
+
+commit aca1634c5017e3d282d9aad44bb3e22b8e57be43
+Author: Nishan Soni <nishan.soni2@gmail.com>
+Date:   Sat Apr 8 22:18:29 2023 -0600
+
+    add low ink use case
+
+commit afd5405faaf4842cb4d79a5393a329899d87ac01
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 22:16:43 2023 -0600
+
+    huge update for select language
+
+commit 5773f215b78af6994dd831c1a61503d3c4069348
+Merge: 550f6d7 8d9597d
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 21:42:46 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 550f6d765da09a97c49c04914a66a3ccd519263e
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 21:42:36 2023 -0600
+
+    enterMembershipPanel updated
+    
+    customerScreen updated
+
+commit 8d9597d8ee89fae0e24e9f1c11ed354e6023e5ff
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 21:42:15 2023 -0600
+
+    tweaked labels
+
+commit 6e13b65755b2da2cf8bdc1b4e0291b718e8d209d
+Merge: 33a1464 079d5d2
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 21:40:12 2023 -0600
+
+    Update EnterMembershipPanel.java
+
+commit 33a146405278a46f3f1d8020d5a30ca8ea343a33
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 21:39:23 2023 -0600
+
+    added some new text labels to enter membership panel
+
+commit 079d5d2dbc6c15796116e76e8b4bf96885c66a97
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 21:36:24 2023 -0600
+
+    small update on EnterMembershipPanel
+
+commit e2a080d9571a63ac524f329dc0933c6bddfc3113
+Merge: 049a0d3 0cb9614
+Author: brian-vo <brianvo125@gmail.com>
+Date:   Sat Apr 8 21:21:00 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 049a0d395db6db93be4e46b1bc1f6602697e7625
+Author: brian-vo <brianvo125@gmail.com>
+Date:   Sat Apr 8 21:20:20 2023 -0600
+
+    add adjusted bills tests
+
+commit 0cb9614d6ed3cd392bb1fd970f9a461f7e01526b
+Author: Virtue-oso <brian.tran@ucalgary.ca>
+Date:   Sat Apr 8 20:55:40 2023 -0600
+
+    added comments to language tests
+
+commit c47c48cbd64a639d86d4953b8ce60baeb98a6c09
+Merge: 2635819 4c36c00
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Sat Apr 8 20:32:33 2023 -0600
+
+    Merge pull request #23 from Amasil/Membership
+    
+    fixed up printing statements
+
+commit 4c36c00c5febc86125a9e502bcb59a9b5ad9c89d
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sat Apr 8 20:32:17 2023 -0600
+
+    fixed up printing statements
+
+commit 2635819da58518e5c536af44d8fb5bab31535eba
+Merge: f343e7f da45334
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 20:27:05 2023 -0600
+
+    Update MembershipTest.java
+
+commit f343e7f09e3ffba95e80701cd8be03b1de7a50ab
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 20:26:38 2023 -0600
+
+    connected swipe/scan membership entry to gui
+
+commit da4533480b8c5031ebf4fced5bf0c76432d5acb2
+Merge: c70ee2e 5e240e5
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Sat Apr 8 19:11:36 2023 -0600
+
+    Merge pull request #22 from Amasil/Membership
+    
+    Membership
+
+commit 5e240e5db3afcefa315ecd916560ca0c5f23cfdc
+Merge: 49c6114 c70ee2e
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sat Apr 8 19:11:14 2023 -0600
+
+    some merge conflict with class.
+
+commit 49c61147d251b4127c3d9029b61fbf719f1350be
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sat Apr 8 19:09:20 2023 -0600
+
+    added a couple more membership tests
+
+commit c70ee2e9488f59668ee59b415816e0b90b7943c9
+Merge: 9107153 d6cf1d7
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 19:09:00 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit d6cf1d7220d66fce826e1b4f47b3e0ac2eb3a14e
+Merge: 5b9a369 9c556a9
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 19:06:05 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit 9c556a98f57c61272ac7a05b90512d67a9d6bb02
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 19:04:37 2023 -0600
+
+    small update
+
+commit 5b9a3696e3902f15224b546dee7ac8f07fc91f9d
+Merge: 8ece96d 5a7dfbf
+Author: Nemanja Grujic <67390027+nemanjag3005@users.noreply.github.com>
+Date:   Sat Apr 8 19:04:13 2023 -0600
+
+    Merge pull request #21 from Amasil/nem/lowpaper
+    
+    add low paper use case
+
+commit 5a7dfbf19968dc5e65e7bffefec5cd97d25abe76
+Author: Nemanja Grujic <luxisoop@gmail.com>
+Date:   Sat Apr 8 19:03:16 2023 -0600
+
+    add low paper use case
+
+commit 91071538f2491144dec8033e8b14dbd42e0c5036
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 18:52:31 2023 -0600
+
+    binary
+
+commit 8ece96db4e6fe6e82a9afc8c0212ee93f5cbba25
+Merge: fd0da7c dbfe085
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 17:37:38 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit d6baba3754b633056955a5db7625863e78485fe0
+Merge: 45d4b81 fd0da7c
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Sat Apr 8 17:36:04 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit dbfe08530a8dee67b60bbfa2fb7b1b24839cd972
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 17:20:54 2023 -0600
+
+    enterMembershipByTyping connected
+
+commit fd0da7c8dfad67bf938dba8a9d64b32aa953dfb5
+Merge: f8ba823 a929e41
+Author: MichelleL <michelle.loi@ucalgary.ca>
+Date:   Sat Apr 8 17:04:21 2023 -0600
+
+    Merge remote-tracking branch 'origin/main'
+
+commit f8ba823d8714ab4fb2ee09b6d9e64971aecb390f
+Author: MichelleL <michelle.loi@ucalgary.ca>
+Date:   Sat Apr 8 17:04:03 2023 -0600
+
+    Adding login and logout tests to main branch
+
+commit a929e41db258db833025c1003cdde0383b51c016
+Merge: 7f14de8 1119ae8
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Sat Apr 8 17:01:49 2023 -0600
+
+    Merge pull request #19 from Amasil/Membership
+    
+    fixed up some membership tests
+
+commit 1119ae8ae612d54dd67c5dcdbea6668066f068e6
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sat Apr 8 17:01:26 2023 -0600
+
+    fixed up some membership tests
+
+commit 7f14de88125b53ad0afae461648a50971875e664
+Author: brian-vo <brianvo125@gmail.com>
+Date:   Sat Apr 8 16:56:10 2023 -0600
+
+    delete duplicate paywithcash
+
+commit 0dddb58d69fbda0cd3e4c6041e331e27453c8a76
+Merge: 968352f 6e40abb
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 16:44:38 2023 -0600
+
+    login/logout added to attendant gui + supervisionstationlogic class
+
+commit 968352f88fadb4f09eef229f17a96d4c8c931cbd
+Merge: 6d658d0 36d6d5a
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 16:42:39 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit 6e40abb5421b9b0186df2314ebccb409b77c3c51
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 16:40:53 2023 -0600
+
+    login logout properly set up
+
+commit 36d6d5ae783b07981e35d2bef4bb89bf39e1aba8
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 16:35:07 2023 -0600
+
+    created MembershipNotFoundException
+    
+    modified Membership
+
+commit 6d658d0cccb6233f44e28e19a0b7d163144b9ecb
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Sat Apr 8 16:16:39 2023 -0600
+
+    More Cleanup and UCID's Added
+
+commit 9db23534d11213f0efb9a86fe6fd55dd48c9dbf9
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Sat Apr 8 16:14:32 2023 -0600
+
+    Fixed Tests and clode cleanup
+
+commit 75def42117642112842ae0ae6ba942300e88633e
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 15:56:27 2023 -0600
+
+    comment
+
+commit f36fd956ad5786b8f44dc5795c66f1755792b7a2
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 15:49:03 2023 -0600
+
+    login/logout setup for attendant gui
+
+commit bd7ef7a3b10f0eea83b63227a0373cd48121b3ab
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Sat Apr 8 15:41:44 2023 -0600
+
+    Add the hardware files to gitignore
+
+commit cacd86c9bb6ce9c7bf90ec25ca420416409d16c4
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 15:41:06 2023 -0600
+
+    working on connecting membership
+
+commit 990c73a38db0614285fce97f7ecb7ec1090152ec
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 15:07:44 2023 -0600
+
+    attendant screen viewable in TestAttendantGUI
+
+commit 716fb11074122c9ddba6319ae267adc2c115d347
+Author: brian-vo <brianvo125@gmail.com>
+Date:   Sat Apr 8 14:54:52 2023 -0600
+
+    undelete TestPayCash, add attendant refill
+
+commit 810682703b660d4e65199421f7bb98ee72d4ac4a
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Sat Apr 8 14:54:41 2023 -0600
+
+    supervision station logic added, attendant screen observer added
+
+commit d17ea1dbede1ba6f6b6d5bcfa3f3d37dab1561bc
+Author: brian-vo <brianvo125@gmail.com>
+Date:   Sat Apr 8 14:34:34 2023 -0600
+
+    Finish Adjust Banknotes for Change
+
+commit 3a7643106f3b93e96e789e4f7a7c2c9fbd4365ce
+Merge: ff7d02c 32e9e85
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Sat Apr 8 11:10:34 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit ff7d02c145658e5b0995a0bc1455b5b5433687c2
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Sat Apr 8 11:10:29 2023 -0600
+
+    Test using credit and debit when it should be gift card
+
+commit 5aa5b87954ad63b602a77c557abf105f174e844f
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 03:13:07 2023 -0600
+
+    working on connecting EnterMembershipPanel
+
+commit 03d2c7c1af3697c8bfa8d42a9d651d768a09a774
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Sat Apr 8 02:45:23 2023 -0600
+
+    small fix
+
+commit 45d4b813d64bc1d03e877f3a3b36b160fa39961a
+Merge: 06840ed 32e9e85
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Sat Apr 8 00:12:01 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 06840ed2681c2885d3f53fb81ed95100324062b4
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Sat Apr 8 00:05:56 2023 -0600
+
+    Altered pinpad more
+
+commit 0e4ee18501ff8d4817d957360550fe392af29765
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 23:56:35 2023 -0600
+
+    Modified pin pad and slight changes to enter membership panel
+
+commit 9e3233ca0b7ea80f23edce2325238904057a6b21
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 23:38:27 2023 -0600
+
+    Ignore class files
+
+commit 32e9e85fc253a5bb2d7eb5582afaee5f6f23c39c
+Merge: 4137e89 08015ce
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 23:25:39 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 4137e894907fac52b2fa3fbe5d4dbd514799d098
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 23:25:36 2023 -0600
+
+    set initial panel to welcome panel in customer gui
+
+commit 08015ce7ec6127643e806649c27d5323365154c9
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 23:24:05 2023 -0600
+
+    small issue fixed
+
+commit b33127b3e3d50f171d03898e01ebb31b255d6fcb
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Fri Apr 7 23:18:38 2023 -0600
+
+    SelectLanguage.java and SelectLanguageTest.java completion
+
+commit 44aa1dfeead27402e533486d9a10ecd831146687
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Fri Apr 7 23:17:58 2023 -0600
+
+    SelectLanguage.java and SelectLanguageTest.java completion
+
+commit 65448b23d23e36c8e3a758c9208949692e5ff6d2
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 23:16:27 2023 -0600
+
+    screen is now not full screen
+
+commit 684f01136289a5b4a98f8acef54914b6c566480f
+Merge: ef2432e b76fd0b
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 23:14:42 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit ef2432e98116c62d0d88771cf907b6ebd1f72a38
+Merge: d23acc0 c67efe9
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 23:14:21 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit b76fd0b6f82bbf5210c7b6ca1ce4374b01728f8f
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 23:12:52 2023 -0600
+
+    deleted main in CustomerScreen
+
+commit d23acc064498ef7f0a418bdd09920a8022de1f04
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 23:07:44 2023 -0600
+
+    Update .gitignore
+
+commit c67efe93c33ff5a3cac697f747386b755395939b
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 23:04:30 2023 -0600
+
+    screen shows panels now
+
+commit 2e0cafe6a8ccb6dd590ec617a8257f2d7b2fb05a
+Merge: 133531c 0f91c4d
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:54:44 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 133531ca3034aee2554ac5ec41f4d6c8a32fd913
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:54:12 2023 -0600
+
+    Ignore class files
+
+commit b992ba6b702f5707ef1c1730bb32ef60dec23968
+Merge: f57614e ed44dc7
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:44:56 2023 -0600
+
+    Merge remote-tracking branch 'origin/GUI-Justin' into alisha-Bag-GUI
+
+commit f57614ed50315aeef82a4809cf6c83162cdb3fbc
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:42:30 2023 -0600
+
+    Updated git ignore again to include class files (trying to debug another issue)
+
+commit 39f148c305a34688f0dfbc20d46e32f4d45fa0ea
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:38:55 2023 -0600
+
+    Update .gitignore
+
+commit 0f91c4da050d77f908aa41e6ba02f81a4623173d
+Merge: c1544bf ed44dc7
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 22:37:57 2023 -0600
+
+    Merge branch 'GUI-Justin'
+
+commit ed44dc7e5037f43cee19efb5f6aeb61a975509c3
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 22:37:36 2023 -0600
+
+    gui test file
+
+commit f29009ff8a685072e76a6233d48e9e982951a8ef
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:32:19 2023 -0600
+
+    Updated git to ignore changes to class files
+
+commit 43ff25271728b462725cab09c5fd1d912e6ceaa0
+Merge: 3ada0e0 c1544bf
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:27:46 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 3ada0e0285dd98e42ad820ccedc8282dac6166c4
+Merge: 0e17adb 45e996c
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:15:51 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit c1544bfb354fd5d3ab490f4b6e88a600401479fd
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Fri Apr 7 22:13:24 2023 -0600
+
+    Update ShoppingCartPanel.java
+
+commit d8c4f2820873614278db3af1b0492435108bbfae
+Merge: 45e996c aa166f8
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Fri Apr 7 22:10:18 2023 -0600
+
+    Merge pull request #17 from Amasil/Adam2
+    
+    Added Keyboard and Pinpad interface
+
+commit aa166f8adc84cb9c474d21c81ba29ec6a0b24a14
+Merge: 176f867 45e996c
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Fri Apr 7 22:10:12 2023 -0600
+
+    Merge branch 'main' into Adam2
+
+commit 176f86772a91c286d9f95e2490d76849f1e3ac46
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Fri Apr 7 22:08:52 2023 -0600
+
+    Added Keyboard and Pinpad interface
+    
+    Keyboard for AddItembySearch and PinPad for PLUSearch, results are stored back in AddItemPanel. Still need to connect the results to the checkoutLogic.
+
+commit 0e17adbc29b06c09a09559030da8fe9f1c6e2d43
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 22:08:08 2023 -0600
+
+    Modifying enter membership panel
+
+commit 9e315fc784322ebbfa190d2f0581bf0ddae9875f
+Merge: 08fa202 45e996c
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 21:56:37 2023 -0600
+
+    Merge branch 'main' into GUI-Justin
+
+commit 45e996cd1e28f37df42cf81b51135ce3e3ad0093
+Merge: 0d4188c 593badc
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 21:53:17 2023 -0600
+
+    Merge branch 'GUI-Song'
+
+commit 0d4188c28f0b9b34c88506948361d58f29424474
+Merge: 332d628 ce53e93
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 21:53:05 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 593badcce0637c9d0db6b1f836251b4b424792f0
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 21:51:05 2023 -0600
+
+    commit
+
+commit 08fa2022c108c15d708af2118cff8f2668d9ec6c
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 21:47:13 2023 -0600
+
+    fixed params
+
+commit ea4b0f9786a07a3227af9aa05437d76b4e6efacd
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 21:43:27 2023 -0600
+
+    Created first draft for membership panel
+
+commit 332d628199071380e0ce031697e84cb8cd506c2e
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 21:42:32 2023 -0600
+
+    connecting GUI to Logic
+
+commit ce53e9332e8dcbc3551e1b8c2c851d9e9ded6db1
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Fri Apr 7 21:38:13 2023 -0600
+
+    Tests Fixed
+
+commit cfc11aa6d59f6cef298a657e89174333ef085b42
+Merge: 4a6e81f ca0a82e
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 21:35:57 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 6e9845fd2dc6019a423d64babb763f50bce50e49
+Merge: 81cf8a3 ca0a82e
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 21:22:05 2023 -0600
+
+    Merge branch 'main' into GUI-Justin
+
+commit ca0a82e48141fe70060a53a7db4b01fd5dffa708
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 21:12:49 2023 -0600
+
+    fixed screen param
+
+commit cabfe8527353706bdbf7e2feac5cacca2c07da9a
+Merge: fcdb21f 0df8435
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 21:10:07 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit fcdb21f9f3e79ebe3fcff98e3b0ee500730ec08c
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 21:09:01 2023 -0600
+
+    binary
+
+commit 0df8435b32fc5199ad567ab0ee8e390328d235e3
+Merge: d46e2be 4a94762
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Fri Apr 7 21:04:44 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit d46e2be0c86c7f715784f4f317cc826d35b59d86
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Fri Apr 7 21:04:29 2023 -0600
+
+    what about now
+
+commit 4a94762fdb81b5211e520a815533043bbfad83d9
+Merge: bab5cd0 264cdc3
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 21:02:38 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit bab5cd020734ef2eed948a1c19da7a7709cecd0b
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 21:01:30 2023 -0600
+
+    station logic added to gui
+
+commit 4a6e81fba0835b9589f54e14fbe425e940095164
+Merge: 0f1afbb 264cdc3
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 21:00:14 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 0f1afbbeab465d1d3f50bf2ba831a13e99670f7d
+Merge: 76b0256 9c9eb78
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 20:59:55 2023 -0600
+
+    Merge branch 'main' into alisha-Bag-GUI
+
+commit 264cdc3ad66c2b604ac8476d9319d8ea6c2cec2d
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Fri Apr 7 20:59:27 2023 -0600
+
+    Fixed
+
+commit 81cf8a3ea0608558c91ffe12886fbf85513b9534
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 20:04:07 2023 -0600
+
+    beginning to connect payment to payment panel
+
+commit 5880d7c76bf5f6ba08433257ca3bfb5bcffc138f
+Merge: f9e98b9 9868c09
+Author: Sahil Brar <47370267+sahilsbrar@users.noreply.github.com>
+Date:   Fri Apr 7 19:51:27 2023 -0600
+
+    Merge pull request #15 from Amasil/AdjustCoinChange
+    
+    Adjust Coin Change completed
+
+commit 9868c09ef2bc9b7f5b4e49b6eb4e591bff062ab5
+Author: sahilsbrar <sahilbrar70@gmail.com>
+Date:   Fri Apr 7 19:49:47 2023 -0600
+
+    Adjust Coin Change completed
+
+commit f9e98b970cf45eab73c12a18686896ed73b21c4c
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 19:40:41 2023 -0600
+
+    renamed TouchScreen to customerScreen
+
+commit f782cede47eb3416565f83cc2ce17c31100a73d5
+Merge: 4a67515 b68d12a
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 19:31:52 2023 -0600
+
+    Attendant GUI: merge from GUI-Justin into Main
+
+commit 4a67515c37daa7802f6302508c377f360ceb9cba
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 19:30:25 2023 -0600
+
+    binary again yahoo
+
+commit d84be564e726b332e098034a388c192987e6e986
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 19:18:46 2023 -0600
+
+    fixed hardware
+
+commit d67537f87054c9f89e5631f24fcf4303567c84af
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 19:10:42 2023 -0600
+
+    binary
+
+commit b2c7eb6dcf643ff328473419ed3c179af57289f4
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Fri Apr 7 18:45:51 2023 -0600
+
+    introduction of test for selectLanguages
+
+commit 929cb9fedcb315612c39f377252b65925c81283c
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Fri Apr 7 18:23:13 2023 -0600
+
+    introduction of test for selectLanguages
+
+commit 9c9eb7857161d35dab087f78865ef6956321c7e4
+Author: Virtue-oso <brian.tran@ucalgary.ca>
+Date:   Fri Apr 7 17:30:55 2023 -0600
+
+    added more to the set up,
+
+commit b68d12a05a688cffed7728a1678e68e59fbb9af8
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 17:26:25 2023 -0600
+
+    attendant gui + hardware fix
+
+commit bf746f671da6676e1893a6d47c25a5482697dd41
+Merge: e8c5274 fc64baa
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Fri Apr 7 17:15:38 2023 -0600
+
+    Merge remote-tracking branch 'origin/main'
+
+commit e8c527440f7fde8bb9f5c27ea7d6959a9620870c
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Fri Apr 7 17:15:18 2023 -0600
+
+    additional edits to select language and customer IO
+
+commit fc64baa501e666566139e2a4d08d9d3d9285e3b7
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Fri Apr 7 17:02:52 2023 -0600
+
+    Updated add own bags and some pricing for other bags
+
+commit 1d9b52085a9d76ed00420e03d9399551bae3bd65
+Author: Virtue-oso <brian.tran@ucalgary.ca>
+Date:   Fri Apr 7 16:41:39 2023 -0600
+
+    started the main structure for testing system settings
+
+commit 8f923f831c7c3079f83b89a4583d9b913813ad3d
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Fri Apr 7 15:41:19 2023 -0600
+
+    additional edits to select language and customer IO
+
+commit 527806ffa04cd8e9afd1db2c9d7d3e0a498b661b
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Fri Apr 7 14:58:30 2023 -0600
+
+    Reusable bag dispenser is set up I think
+
+commit 995c57edbbc926042744e340f5048bc43d4f47a6
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Fri Apr 7 12:05:09 2023 -0600
+
+    More fixes to tests
+
+commit debb4c33b424dd6ae0e320327681a9ebbf685d55
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Fri Apr 7 11:35:23 2023 -0600
+
+    TestFixed
+
+commit 72a2e253cd17cac1a76ac8443b3d9bd3481d8acc
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Fri Apr 7 11:26:20 2023 -0600
+
+    Fixed another test
+
+commit c79be5454801a8fd43c2861ed6c3e9c494af374d
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Fri Apr 7 11:25:26 2023 -0600
+
+    Fixed a test
+
+commit 7b7c99f308e6f642e8f8c9bb31cf7e00438b97d9
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Fri Apr 7 11:11:06 2023 -0600
+
+    Fixed the issue I was having
+
+commit 76b025671d7f3a3c510c933dc245254aa99e6aac
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 03:23:35 2023 -0600
+
+    Changed button colours
+
+commit a1815dc2c6a5b0d7fe302d816f1fc66b55f11f4f
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 03:15:17 2023 -0600
+
+    Created first draft of welcome screen and added images
+
+commit b2c5146f23650f46a211518c779b22409bb86b28
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 02:39:04 2023 -0600
+
+    Modified the welcome page
+
+commit 134f0a1596f363bd3124c3bf8f41d759a0ac923c
+Merge: bd9771c 959d006
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 01:24:24 2023 -0600
+
+    merged GUI-Song into main branch
+
+commit bd9771cb47aea874e3be41c0fc3ffe462a589cc6
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 01:09:00 2023 -0600
+
+    oop
+
+commit c66bf27cc2c8af5a7ba60638fe7f26ffd0a63b1f
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 01:08:31 2023 -0600
+
+    still fixing stuff
+
+commit cc5f1b10469ce80a0264475653af9e7f06310666
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 01:05:06 2023 -0600
+
+    redoing hardware 3.3 stuff pray i dont break anything
+
+commit 959d006742628b809dda0412227938fbc4273233
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 01:04:28 2023 -0600
+
+    updated hardware again
+
+commit a29ca948050175df6f0cefb06c3bffb05549048f
+Merge: 8be6d4e ce6e488
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 01:01:49 2023 -0600
+
+    Merge branch 'GUI-Song' of https://github.com/Amasil/seng300I3 into GUI-Song
+
+commit 8be6d4e501d0c0273d774ac0ed7b78875d445e88
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 01:01:33 2023 -0600
+
+    updated Hardware
+
+commit 68f50e7cce84bdcea26c32f8948a67bdc06fca6d
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 01:01:17 2023 -0600
+
+    test push
+
+commit 9cd1a69e68c47f449e5c57c30e3884446acd573f
+Author: alisha-nas <al.alishanasir@gmail.com>
+Date:   Fri Apr 7 00:56:44 2023 -0600
+
+    Fixed typo
+
+commit ce6e488325fe609f095c1a9ab871ca01b4ac1cd8
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Fri Apr 7 00:53:55 2023 -0600
+
+    test commit
+
+commit 05e358a28441fef45dfdf08729a30478af21bb7d
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Fri Apr 7 00:34:01 2023 -0600
+
+    error fixed
+
+commit 728b540a4a19ca44cef1ea2f484f76f355b92796
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 23:20:57 2023 -0600
+
+    .classpath and .project
+
+commit d3797320f8e88ab9e4e2bbaccd786d8cd8136ceb
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 22:47:08 2023 -0600
+
+    small fix
+
+commit d67bbf1b9e08d6f50f7f5575732d927e81b0e164
+Merge: da13059 eb07440
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Thu Apr 6 22:14:04 2023 -0600
+
+    Merge pull request #11 from Amasil/Membership
+    
+    small change to paywithcard
+
+commit eb07440806c7d6521a3dcb282ced7ef556c65f05
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Thu Apr 6 22:13:28 2023 -0600
+
+    small change to paywithcard
+
+commit 4d52724c65c78f7b7d01062371fdfd74acd41662
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 22:12:52 2023 -0600
+
+    updated hardware
+
+commit 7a350d08f9d1f695da880299f0d3157fb33ffb19
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 22:09:01 2023 -0600
+
+    optimized BagOptionPopup
+
+commit f4737b1130093c5f60791e57e6f9b590182c744f
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 22:03:49 2023 -0600
+
+    confirmBagPanel updated
+
+commit da13059e832c88f7b6edb71105c4f7d94240c0aa
+Merge: fe73c8f 0da9c26
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Thu Apr 6 21:58:57 2023 -0600
+
+    Merge pull request #10 from Amasil/Membership
+    
+    changed around paywithgiftcard
+
+commit 0da9c26b645287801922efc6bc2787e29b98637c
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Thu Apr 6 21:57:57 2023 -0600
+
+    changed around paywithgiftcard
+
+commit fe73c8fe58f8fa767d0d167f390b231caa372e9e
+Merge: 4a86ed3 6df8fe2
+Author: brian-vo <brianvo125@gmail.com>
+Date:   Thu Apr 6 21:39:18 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3 into main
+
+commit 4a86ed3e0a2164737463646cb5873989dc60c28f
+Author: brian-vo <brianvo125@gmail.com>
+Date:   Thu Apr 6 21:39:00 2023 -0600
+
+    change sendOutChange to not create coin/bills, partial adjustbillchange
+
+commit 4ef6dc5abfbb6511d1793775d197bb7a5ef4fa02
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 21:14:27 2023 -0600
+
+    bagOptionPopup updated
+
+commit 6df8fe2183a946d8c8ef26aadc0a55c034c638ee
+Author: jasonngu <jason.ngu1@ucalgary.ca>
+Date:   Thu Apr 6 20:34:50 2023 -0600
+
+    committing of current SelectLanguage code to main
+
+commit bfff20b953fadc9a9bfda0c71eebfc0ec010ffb8
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Thu Apr 6 20:03:49 2023 -0600
+
+    New hardware to be pushed
+
+commit e9d1b216d2ff826f70e5d2cb3732fd3b625b4dd2
+Merge: 4f0ac63 9e1888b
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Thu Apr 6 16:47:17 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 4f0ac637afe506d78a69cc74a630c54a05e958cb
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Thu Apr 6 16:43:48 2023 -0600
+
+    Make PayWithGiftCardTest
+    
+    found some additional info about gift cards in the selfcheckoutstationlogic
+
+commit 9e1888b2ff0a3dbde86eb13744a12c31ab7d3281
+Merge: d573c11 5b483b0
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Thu Apr 6 15:44:43 2023 -0600
+
+    Merge pull request #9 from Amasil/Membership
+    
+    Membership
+
+commit 5b483b0528c244cd20776412660dae32b7aa0c9f
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Thu Apr 6 15:44:16 2023 -0600
+
+    changed around paycardtest
+
+commit 37d72a5bd7e769787f221df6d2ff62f4366c334a
+Merge: a53fb62 b2d42b9
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Thu Apr 6 15:42:08 2023 -0600
+
+    Merge remote-tracking branch 'origin/Membership' into Membership
+
+commit a53fb6230dfc3294707269b33214e5c769505e13
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Thu Apr 6 15:41:25 2023 -0600
+
+    fixed PayCardTest for an exception
+
+commit cafca8fbd9f395164558f7ba5c2d151c8f98b0ae
+Merge: 1537100 d573c11
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Thu Apr 6 15:26:23 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3 into Membership
+
+commit d573c11376c16cf32c8808f2d1a58f7d26426e0f
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Thu Apr 6 14:46:53 2023 -0600
+
+    Changed File Names
+
+commit c606139152f3ba129458a9a1b86d9bbecb68cde5
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Thu Apr 6 14:06:09 2023 -0600
+
+    You goofy silly guys
+    
+    how silly!!!
+
+commit 0560408a7f660365a94a5e7236396850db947791
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Thu Apr 6 13:55:41 2023 -0600
+
+    Removing tests are done.
+
+commit b2d42b998feded46ab35330dbb28088b0501273a
+Author: DuongTran0396 <duongtran0396@gmail.com>
+Date:   Thu Apr 6 12:44:19 2023 -0600
+
+    register scanner in constructor
+
+commit 1537100797fbf52ca9061c56efafbc272f63cf59
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Thu Apr 6 10:00:31 2023 -0600
+
+    added a few tests
+
+commit cb20c07813cc2e24bf4a8a005449f49c853ff2a7
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 04:36:52 2023 -0600
+
+    small fixes
+
+commit 96a64a29356324cc52437f41ac4758562deb4b4c
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 04:32:01 2023 -0600
+
+    added BagOptionPopup
+
+commit 7a3d63bea3d651d922e274b1882d69167cb80906
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Thu Apr 6 03:42:48 2023 -0600
+
+    small progress
+
+commit ca166af528995a1ac4d54d2c9b76a9b985446401
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 5 23:10:33 2023 -0600
+
+    connected Justin's work to mine
+
+commit 5bad89135a2676f9750c0416fedfca26aefba30e
+Merge: 806423c 47ec271
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 5 22:37:55 2023 -0600
+
+    Merge branch 'GUI-Justin' into GUI-Song
+
+commit 806423cedcf6933ba7e69791064a0dca3837663a
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 5 22:17:54 2023 -0600
+
+    EnterMembershipPanel and ChooseMembershipPanel are connnected to ShoppingCartPanel
+
+commit d243d3f8e464e1dc9a3cb228fdb22048c531de41
+Merge: ebdf684 97417c8
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 5 22:14:36 2023 -0600
+
+    Merge pull request #7 from Amasil/GUI---Adam
+    
+    ShoppingCartPanel and AddItemPanel
+
+commit 97417c83a5d5e4e0ecb20e0643b8718ba150ef39
+Author: adammogensen <109624528+adammogensen@users.noreply.github.com>
+Date:   Wed Apr 5 22:14:03 2023 -0600
+
+    ShoppingCartPanel and AddItemPanel
+    
+    Main ShoppingCart Interface created, additemPanel needs item images/text added in browse section and needs keyboard/pinpad popups when interacted with
+
+commit ebdf684f15ef0f3acc2aa3233c17564a243667d1
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 5 22:04:07 2023 -0600
+
+    updated the hardware version
+
+commit 2eba381dbe98476548d939f4ea810ec8718b3cdc
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 5 21:52:17 2023 -0600
+
+    selecting english and french lead to the main scree
+    
+    right now language doesn't change
+
+commit 7272fd0ce19b6d8d0d0241ab5bb49905f413ed25
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Wed Apr 5 21:42:25 2023 -0600
+
+    added languageSelectPanel
+
+commit bcbe50645a7bdb4426d9f7c7e3e0d92b6247eb31
+Merge: cd5d963 51f1926
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Wed Apr 5 19:39:28 2023 -0600
+
+    Merge pull request #4 from Amasil/Membership
+    
+    Membership
+
+commit 51f19265c2e654a22caccfc5730038a699be4f36
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 19:38:55 2023 -0600
+
+    deleted print messages for exception
+
+commit 28539f1624edb6f0e2930dfe090c81efcb885159
+Merge: 348c66c cd5d963
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 19:38:30 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3 into Membership
+
+commit 302e444aac9e877316be6ada90382b101f6160b5
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Wed Apr 5 19:36:42 2023 -0600
+
+    Edit gitignore
+
+commit cd5d96342dbd9f5eaa4f7b05d2b42052eef00c0b
+Merge: 4c631cd 3d67af5
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Wed Apr 5 19:34:15 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit 4c631cdd07d772f8ae57c2fb297da05fcc29a54a
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Wed Apr 5 19:34:10 2023 -0600
+
+    Make PayWithGiftCard class
+
+commit 348c66c67bf95d2b25310ea16bdfecc69b53e746
+Merge: 1691082 3d67af5
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 19:32:27 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3 into Membership
+
+commit 3d67af59734f0af5be8db3d628324f6906a4ee55
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Wed Apr 5 19:31:11 2023 -0600
+
+    TestLogic Changed
+
+commit 16910829418f9960f0d6af52b80d642a8658b68d
+Merge: f7b5d5c 2207700
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 19:30:23 2023 -0600
+
+    Merge branch 'Membership' of https://github.com/Amasil/seng300I3 into Membership
+
+commit f7b5d5ca6b9ee7fe196026f16ac0aa224cceeb9c
+Author: MichelleL <michelle.loi@ucalgary.ca>
+Date:   Wed Apr 5 18:48:50 2023 -0600
+
+    Fixed tests to include screen, BillDispenser, and CoinDispenser
+
+commit 1ebee489e823ebe6842bcfb48345dd1f9b2a699d
+Merge: 8d89d1a e43832c
+Author: MichelleL <michelle.loi@ucalgary.ca>
+Date:   Wed Apr 5 18:28:30 2023 -0600
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 8d89d1a57b869bfcec7c64b85b687a34258c605c
+Author: MichelleL <michelle.loi@ucalgary.ca>
+Date:   Wed Apr 5 18:26:57 2023 -0600
+
+    Disable and enable touchscreen, BillDispenser and CoinDispenser
+
+commit 2207700fe69b65a3f10a6127dc712ce1fb50c212
+Author: DuongTran0396 <duongtran0396@gmail.com>
+Date:   Wed Apr 5 18:06:42 2023 -0600
+
+    test inputmembershipmethod-scan
+
+commit 6086a0f1f7743e6d00ee5684fe022e5a1430a239
+Author: MichelleL <michelle.loi@ucalgary.ca>
+Date:   Wed Apr 5 17:16:46 2023 -0600
+
+    Allows attendant to login and logout
+
+commit e43832cc18cf4ef6363513c7b49eacd636386f79
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Wed Apr 5 16:17:54 2023 -0600
+
+    Update .gitignore
+
+commit 6d6ce387967219b996ffcbd7bdf34f1e0e16b0c3
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Wed Apr 5 16:14:39 2023 -0600
+
+    Minor Fixes to Tests
+
+commit 098d5c5d9e20b2e065e21e86e996b3c30854818a
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Wed Apr 5 16:13:45 2023 -0600
+
+    Attendant Action Tests Added
+
+commit 933708fab15eb42cb8d381c82e1870a9aeed213e
+Merge: 343c2f0 d4a46ce
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Wed Apr 5 15:46:15 2023 -0600
+
+    Merge pull request #3 from Amasil/Membership
+    
+    Membership
+
+commit d4a46ced91e25e18d996fa32a92e7097c6d25432
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 15:45:25 2023 -0600
+
+    added all our UCIDs to every existing file
+
+commit 5c62f2f5663efc630b94d8fe89876873706ae646
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 14:31:02 2023 -0600
+
+    made some changes to swipe
+
+commit b8704ec09062e2313276dd3564ca099ac1a2f137
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 13:57:50 2023 -0600
+
+    made a workaround for reactToBarcodeScannedEvent
+
+commit ea5bb0a4c2f0698e10ced8e787f0aba703a1cfe8
+Merge: 343c2f0 4668dfb
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 11:37:52 2023 -0600
+
+    Merge branch 'Membership' of https://github.com/Amasil/seng300I3 into Membership
+
+commit 4668dfb06f4b98971ec0907335dde75d4c0d5780
+Author: DuongTran0396 <duongtran0396@gmail.com>
+Date:   Wed Apr 5 11:33:10 2023 -0600
+
+    add constructor
+
+commit bbadd68737f21fd8e04db2e3cace4f65b09cc4a7
+Author: DuongTran0396 <duongtran0396@gmail.com>
+Date:   Wed Apr 5 11:31:48 2023 -0600
+
+    scan method and testing
+
+commit 343c2f0081ccb2c9069e79cf4ea9de621eafcba6
+Merge: e8a4ba5 9ff0f54
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Wed Apr 5 11:23:09 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3
+
+commit a092acb8566b84469a585304651f8d84990f1067
+Author: DuongTran0396 <duongtran0396@gmail.com>
+Date:   Wed Apr 5 10:54:54 2023 -0600
+
+    selectInputMethod
+
+commit 9ff0f540b71c0f730f3084b7e5979d2de9a6fd4d
+Merge: 9a1fef9 763289c
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Wed Apr 5 10:35:06 2023 -0600
+
+    Merge pull request #2 from Amasil/Membership
+    
+    Membership
+
+commit 763289c98d763484a5b512f235865c4bb2fbc2ee
+Merge: bcf7652 e7ad2c2
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 10:33:10 2023 -0600
+
+    Merge branch 'Membership' of https://github.com/Amasil/seng300I3 into Membership
+
+commit bcf765228df59a99899247678c9faec0b2297172
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 10:32:49 2023 -0600
+
+    build path updated
+
+commit e7ad2c298989f739b7a7b8b9c4a17d247a9ee5e4
+Merge: 40f1545 fade4d5
+Author: DuongTran0396 <duongtran0396@gmail.com>
+Date:   Wed Apr 5 10:32:20 2023 -0600
+
+    Merge branch 'Membership' of https://github.com/Amasil/seng300I3 into Membership
+
+commit ecb82eb26beb292b38cf4284b0f64331ce9ffdfd
+Merge: fade4d5 9a1fef9
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Wed Apr 5 10:31:49 2023 -0600
+
+    Merge branch 'main' of https://github.com/Amasil/seng300I3 into Membership
+
+commit 40f1545c3ebdda82f634c37f043250fcc52ee840
+Author: DuongTran0396 <duongtran0396@gmail.com>
+Date:   Wed Apr 5 10:30:46 2023 -0600
+
+    entermembershipbyscan
+
+commit 9a1fef98f52141354bbdf1e91b660531cf89a629
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Wed Apr 5 07:51:27 2023 -0600
+
+    New hardware version.
+
+commit 47ec2715b36e6db2c3ede598dc9b2374c32876c2
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Wed Apr 5 00:50:27 2023 -0600
+
+    removed frames and added getters for panels
+
+commit d66f4f3ef5402f58909a9747d8fac20ad1d159f8
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 4 23:46:01 2023 -0600
+
+    payment and receipt gui panels
+
+commit fade4d5b5234e9a94aaf95306df68d6b27fcc9e5
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Tue Apr 4 23:14:28 2023 -0600
+
+    changed around a few things, nothing major
+
+commit 614cfe5fdcf3b43cb022024986c50346cfa3025b
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 4 22:48:24 2023 -0600
+
+    small fix
+
+commit 12887f4584c2ddbcc50d31b714ca446f706d8428
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 4 22:38:54 2023 -0600
+
+    pin pad added to EnterMembershipPanel
+
+commit 1b5bb65d6d7d768e2f769f882e7f51b1ecd7b527
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 4 21:49:50 2023 -0600
+
+    created chooseMembershipPanel
+
+commit 51e6cc9ace0592bf2d21182d706625aa384fe448
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Tue Apr 4 20:19:16 2023 -0600
+
+    changes to membership. not done yet
+
+commit e719258151a37b4d76ceb6cd75949146bfb43fa8
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Tue Apr 4 20:17:35 2023 -0600
+
+    made lots of changes to membership. not done yet. edited pay as well
+
+commit 965a0bbb5340c7daf649b1f91dd3d0e042a9a7cf
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 4 19:01:43 2023 -0600
+
+    enterMembershipPanel updated
+
+commit d3414100f306ef62acaf8aa487a589d8ae948639
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 4 18:41:22 2023 -0600
+
+    working on switching panels
+
+commit 1d98d4e93eb257d2b8a350eee6058fdc91d2f44b
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 4 16:18:18 2023 -0600
+
+    this should update hardware in our branch
+
+commit e93bfc3a590ef18d1cf21bcedab98e9df554e83f
+Merge: 2cf26df 497bb13
+Author: justinclibbett <127788023+justinclibbett@users.noreply.github.com>
+Date:   Tue Apr 4 16:16:44 2023 -0600
+
+    Merge branch 'main' into GUI-Song
+
+commit 497bb138a054d47a79625720ef9031f09918148d
+Author: zainab1712 <98361037+zainab1712@users.noreply.github.com>
+Date:   Tue Apr 4 14:23:51 2023 -0600
+
+    Update .gitignore
+
+commit 0dc4d1bca7941983aa44b8ee739d66b590db4c41
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Tue Apr 4 14:22:40 2023 -0600
+
+    Code Cleanup
+
+commit e05882a69bf7de7adf1264b2fa66c8c717dfc072
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Tue Apr 4 14:20:25 2023 -0600
+
+    Comments Added
+
+commit 16aba416ac35cdb82b0e6c1773744810abef61c6
+Author: zainabw17 <127432552+zainabw17@users.noreply.github.com>
+Date:   Tue Apr 4 14:09:16 2023 -0600
+
+    Attendant Action Updated
+
+commit 25b473d4a5a902d724218dce8da362ffe60d30eb
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Tue Apr 4 11:00:51 2023 -0600
+
+    REMOVE YOUR TRASH- um, I mean, removing items test.
+
+commit f26ed91409835eb6016b7e0808ad289d281f2ef1
+Author: Swaguy14256 <Swaguy14256@users.noreply.github.com>
+Date:   Tue Apr 4 10:52:50 2023 -0600
+
+    Fixed all errors.
+
+commit e0750ab65495a89a595aec792a70fa5b549163d8
+Merge: e5b97c2 e718a6b
+Author: Rheanna <77551220+RheannaF@users.noreply.github.com>
+Date:   Tue Apr 4 10:45:12 2023 -0600
+
+    Merge pull request #1 from Amasil/Membership
+    
+    Membership
+
+commit e718a6b98529600378c05ed759f58acc22cba1fb
+Merge: 7d18630 e5b97c2
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Tue Apr 4 10:43:26 2023 -0600
+
+    resolve merge conflict
+
+commit e5b97c2245ba0928a063935b75ded531d9967fe9
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Tue Apr 4 10:31:57 2023 -0600
+
+    fixed the tests
+
+commit 74ac645af37df278595ec0f4c999671edbf38f4b
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Tue Apr 4 10:25:24 2023 -0600
+
+    I updated software
+
+commit f791aa7c6af5573236a65b452f55651a283df5bf
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Tue Apr 4 10:15:30 2023 -0600
+
+    bag removal now possible
+
+commit 22fb486bd3b15f377833a7dce2521c31b01c9236
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Tue Apr 4 09:57:22 2023 -0600
+
+    Fixed some removal issues
+
+commit 2cf26dfc0da7604551c6627d559b4443d86b934d
+Author: Eungyo Song <songeg09@gmail.com>
+Date:   Tue Apr 4 05:52:46 2023 -0600
+
+    working on GUI
+
+commit e8a4ba5e2cb8e2b96d6749776e1d94fde7149e0c
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Mon Apr 3 20:39:43 2023 -0600
+
+    Updated git ignore
+
+commit 56b9ef29655b7b6d2959bdbe4bcf82f1a7d4c029
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 3 19:08:50 2023 -0600
+
+    add weight discrepancy case
+
+commit 44e60e8dff2acc89e38b9129968101a4f8c3969c
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 3 18:55:20 2023 -0600
+
+    Remove Item has been added, also added the ability to add and remove bags
+
+commit e83fc7b5642392a9573fad714f0cf815168d483c
+Author: EugeneL11 <eugenelee0605@gmail.com>
+Date:   Mon Apr 3 16:25:24 2023 -0600
+
+    Add gift card as a method of payment
+
+commit 24b3e53d63c3cdd7f219ddae37f13c62317b5dba
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 3 12:18:10 2023 -0600
+
+    set up for overloaded event
+
+commit 33831cb3624ba946bb080120fab05b8f8a453826
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 3 12:05:25 2023 -0600
+
+    made a bagdispenser class instead of the other mumboJumbo
+
+commit 4bf92f012a33f795d075919f5f9ecc08db5815c6
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 3 11:17:21 2023 -0600
+
+    this is wrong but it won't crash now
+
+commit c49f56c1e30e772c64a6856d3d126fe08601f361
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Mon Apr 3 11:11:37 2023 -0600
+
+    Add item with no bagging area selected added
+
+commit 4a6fef51fb08aef6605cc78a9f001936163c54d6
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Sun Apr 2 21:37:46 2023 -0600
+
+    Attendant Shutdown improved.
+
+commit 82f936682f5e056014b0a487dad1a8d654bc56bb
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Sun Apr 2 20:56:06 2023 -0600
+
+    AttendantAction
+
+commit 7d186302449db0fe5093382aa04eb72e8fa77d49
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sun Apr 2 19:43:17 2023 -0600
+
+    updated tests
+
+commit 66d585a5db7e26c27cff0257dc5c0d1340030580
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sun Apr 2 19:13:35 2023 -0600
+
+    updated validation
+
+commit 42a0805ce86d36ca1a2cdb6817c96ca22405c4e6
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sun Apr 2 18:47:16 2023 -0600
+
+    added a way to validate a membership. Changed from int to string
+
+commit c917e8e659558049e2ba92a8cbacf21fa8c36b46
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sun Apr 2 17:42:20 2023 -0600
+
+    added a few tests and the ability to clear the text file.
+
+commit dd6357d609175ee9c0f39b828b07172852870e85
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sun Apr 2 16:37:04 2023 -0600
+
+    changed constructor of membership
+
+commit 10545df087d3177bb0efedb47fe9179fc273f2a7
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Sun Apr 2 16:17:42 2023 -0600
+
+    Fixed up some add items
+
+commit e69c7099e964dc9eb45b32cc5536c440336a047e
+Merge: 86b904a ae33330
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sun Apr 2 15:38:41 2023 -0600
+
+    merge hardware
+
+commit ae333308de1a55871701d3dcee2c6ff703cd716d
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Sun Apr 2 15:28:51 2023 -0600
+
+    Hardware added
+
+commit 86b904a5d259e7ccf9515ac496cf391bfaa37799
+Author: Rheanna Fielder <rheanna.fielder.rf@gmail.com>
+Date:   Sun Apr 2 15:11:15 2023 -0600
+
+    Changed the way files were declared in membership
+
+commit 8642a9fc7816f6aee6b35e5e1dd7a9e4dfec59ff
+Author: Amasil Rahim Zihad <amasilrahim.zihad@ucalgary.ca>
+Date:   Sat Apr 1 20:49:52 2023 -0600
+
+    Project Structure Fixed
+
+commit 58ed7a081a3dc56059947ba9720cb0b900efb83b
+Author: BrettLyle11 <lylebrett11@gmail.com>
+Date:   Sat Apr 1 16:43:17 2023 -0600
+
+    My old it 2
+
+commit 36a87727c38afc289e43914b83abbc88c6520532
+Author: Amasil Rahim Zihad <81823586+Amasil@users.noreply.github.com>
+Date:   Sat Apr 1 15:07:51 2023 -0600
+
+    Initial commit
